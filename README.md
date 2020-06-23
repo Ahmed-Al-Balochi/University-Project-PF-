@@ -7,7 +7,7 @@ Variables & Data types.Arrays.Functions.Switches.Loops.Structures.And others...
 ______________________________________________________________________________________________________
 
 
-Simple Modern Periodic Table Project
+Simple Modern Periodic Table Project, Terminal Based Program.
 
 Main function of this project is to explore or to display the stored information. You can search an element by using any of the following method:
 
