@@ -18,3 +18,6 @@ By symbol of element
 By atomic number of element
 
 By atomic weight of element
+
+
+Note: This Program was not entirely my code some portions are from the Internet.
